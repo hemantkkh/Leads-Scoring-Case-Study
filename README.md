@@ -1,2 +1,2 @@
 # Leads-Scoring-Case-Study
-This case study tells about the important factors for a education company which can be looked at for targetting customer with high coversion rate.
+This case study tells about the important factors for a education company which can be looked at for targetting customer with high coversion rate. At first data is cleaned. Then logistic model is fitted to the train data and tested with the test data. The result of the models gives customer with features who have the highest conversion rate for joining the case. Hence, targetting these customers would save the resources of the company.
